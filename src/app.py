@@ -1,4 +1,3 @@
-# mapbox_access_token = 'PUT TOKEN HERE.
 import flask
 from flask import request, url_for, render_template, redirect
 
